@@ -31,6 +31,12 @@
 
 ---
 
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/Suhani Aggarwal)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:aggarwalsuhani040@gmail.com)  
+
+---
+
 ### 💖 A Bit About Me
 - I love **learning new things** and **making projects practical & visually appealing** 🌸  
 - Tech + Creativity = my happy place ✨  
