@@ -27,7 +27,7 @@
 - 💳 **Credit Card Fraud Detection** – Identify fraudulent transactions using ML  
 - More exciting projects coming soon… 🚀  
 
-*Check them out on my [GitHub](https://github.com/your-github-Suhani-Aggarwal)*  
+*Check them out on my [GitHub](https://github.com/Suhani-Aggarwal)*  
 
 ---
 
