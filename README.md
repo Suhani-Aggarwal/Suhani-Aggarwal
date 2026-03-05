@@ -27,13 +27,7 @@
 - 💳 **Credit Card Fraud Detection** – Identify fraudulent transactions using ML  
 - More exciting projects coming soon… 🚀  
 
-*Check them out on my [GitHub](https://github.com/Suhani-Aggarwal)*  
-
----
-
-### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/Suhani Aggarwal)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:aggarwalsuhani040@gmail.com)  
+*Check them out on my [GitHub](https://github.com/Suhani-Aggarwal)*   
 
 ---
 
