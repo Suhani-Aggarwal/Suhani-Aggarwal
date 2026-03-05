@@ -1,16 +1,37 @@
-## Hi there 👋
+# ✨ Hi there! I'm Suhani 👋
 
-<!--
-**Suhani-Aggarwal/Suhani-Aggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.E. CSE (AI & ML) Student**  
+💡 Exploring **Python, Frontend Development, and Applied AI**  
+🌈 I love building **smart and practical projects** that solve real problems ✨  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Learning
+- Python  
+- HTML • CSS • JavaScript  
+- FastAPI • Streamlit • Joblib  
+- AI & Machine Learning basics 🤖  
+
+---
+
+### 🌟 Goals for 2026
+- Build more **interactive web + AI projects**  
+- Master **Data Science tools**  
+- Apply AI to **real-world problems** 🔍  
+- Start **contributing to open-source** 🌍  
+
+---
+
+### 📌 Projects I'm Working On
+- 🤖 **Sentiment Analysis** – Analyze text to detect emotions and opinions  
+- 💳 **Credit Card Fraud Detection** – Identify fraudulent transactions using ML  
+- More exciting projects coming soon… 🚀  
+
+*Check them out on my [GitHub](https://github.com/your-github-Suhani-Aggarwal)*  
+
+---
+
+### 💖 A Bit About Me
+- I love **learning new things** and **making projects practical & visually appealing** 🌸  
+- Tech + Creativity = my happy place ✨  
+- Always curious, always experimenting 📈  
